@@ -46,6 +46,16 @@ author_profile: true
 
 
 ### 🤝 **Co-Author Papers**
+<div style="border-left: 4px solid #28a745; padding-left: 15px; margin: 20px 0;">
+
+<strong>PS-seg: Learning from Partial Scribbles for 3D Multiple Abdominal Organ Segmentation</strong>  
+Meng Han, <strong><span style="color: #28a745;">Xiaochuan Ma</span></strong>, Xiangde Luo, Wenjun Liao, Shichuan Zhang and Guotai Wang
+<strong>Neurocomputing, 2026</strong>
+<em>CAS-Q2, IF: 6.5</em>  
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231226002341">[Paper]</a> <a href="https://github.com/HiLab-git/PartialScribble.git">[Code]</a>
+
+</div>
+
 
 <div style="border-left: 4px solid #28a745; padding-left: 15px; margin: 20px 0;">
 
@@ -80,7 +90,7 @@ Ningzhu*, <strong><span style="color: #6f42c1;">Xiaochuan Ma*</span></strong>, S
 
 | Type | Count | Impact |
 |------|-------|---------|
-| 📚 **Journal Papers** | 1 | CAS Q1, Total IF: 7.6 |
+| 📚 **Journal Papers** | 2 | CAS Q1, Q2, Total IF: 14.1 |
 | 🎤 **Conference Papers** | 2 | MICCAI, IEEE ISBI |
 | 📝 **Preprints** | 1 | arXiv |
 | 🥇 **First Author** | 2 | 2 Conferences |

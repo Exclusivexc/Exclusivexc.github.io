@@ -23,6 +23,10 @@ redirect_from:
 
 ## 🗞️ Recent News & Achievements
 
+### 🎓 2026
+- **📄 Jan 21** - Paper accepted by **[Neurocomputing 2026](https://www.sciencedirect.com/journal/neurocomputing)**: *PS-seg: Learning from Partial Scribbles for 3D Multiple Abdominal Organ Segmentation* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226002341)] [[Code](https://github.com/HiLab-git/PartialScribble.git)]
+
+
 ### 🎓 2025
 - **📄 June 6** - Paper accepted by **[MICCAI 2025](https://papers.miccai.org/miccai-2025/)**: *SUGFW: A SAM-Based Uncertainty-Guided Feature Weighting Framework for Cold Start Active Learning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_55)] [[Code](https://github.com/HiLab-git/SUGFW.git)]
 - **📄 Jan 3** - Paper accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**: *CLISC: Bridging CLIP and SAM by Enhanced Cam for Unsupervised Brain Tumor Segmentation* [[Paper](https://ieeexplore.ieee.org/abstract/document/10980784)] [[Code](https://github.com/HiLab-git/CLISC.git)]

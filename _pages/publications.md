@@ -48,7 +48,7 @@ author_profile: true
 ### 🤝 **Co-Author Papers**
 <div style="border-left: 4px solid #28a745; padding-left: 15px; margin: 20px 0;">
 
-<strong>PS-seg: Learning from Partial Scribbles for 3D Multiple Abdominal Organ Segmentation</strong>  
+<strong>PS-seg: Learning from Partial Scribbles for 3D Multiple Abdominal Organ Segmentation </strong>
 Meng Han, <strong><span style="color: #28a745;">Xiaochuan Ma</span></strong>, Xiangde Luo, Wenjun Liao, Shichuan Zhang and Guotai Wang
 <strong>Neurocomputing, 2026</strong>
 <em>CAS-Q2, IF: 6.5</em>  

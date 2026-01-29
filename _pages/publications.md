@@ -12,29 +12,6 @@ author_profile: true
 {% endif %}
 
 ---
-
-## 📖 Journal Publications
-
-<!-- ### 🥇 **First Author Papers** -->
-
-
-
-### 🤝 **Co-Author Papers**
-
-<div style="border-left: 4px solid #28a745; padding-left: 15px; margin: 20px 0;">
-
-<strong>Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer’s Disease Analysis</strong>  
-Jinghao Xu, Chenxi Yuan, <strong><span style="color: #28a745;">Xiaochuan Ma</span></strong>, Huifang Shang, Xiaoshuang Shi and Xiaofeng Zhu
-<strong>Pattern Recognition (PR), 2024</strong>
-<em>CAS-Q1-TOP, IF: 7.6</em>  
-<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002012">Paper</a>
-
-</div>
-
-
-
----
-
 ## 🎤 Conference Publications
 
 ### 🥇 **First Author Papers**
@@ -62,6 +39,29 @@ Jinghao Xu, Chenxi Yuan, <strong><span style="color: #28a745;">Xiaochuan Ma</spa
 
 
 ---
+## 📖 Journal Publications
+
+<!-- ### 🥇 **First Author Papers** -->
+
+
+
+### 🤝 **Co-Author Papers**
+
+<div style="border-left: 4px solid #28a745; padding-left: 15px; margin: 20px 0;">
+
+<strong>Interpretable Medical Deep Framework by Logits-constraint Attention Guiding Graph-based Multi-scale Fusion for Alzheimer’s Disease Analysis</strong>  
+Jinghao Xu, Chenxi Yuan, <strong><span style="color: #28a745;">Xiaochuan Ma</span></strong>, Huifang Shang, Xiaoshuang Shi and Xiaofeng Zhu
+<strong>Pattern Recognition (PR), 2024</strong>
+<em>CAS-Q1-TOP, IF: 7.6</em>  
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002012">Paper</a>
+
+</div>
+
+
+
+---
+
+
 
 ## 📝 Preprints & Under Review
 

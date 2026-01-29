@@ -53,7 +53,7 @@ author_profile: true
 Jinghao Xu, Chenxi Yuan, <strong><span style="color: #28a745;">Xiaochuan Ma</span></strong>, Huifang Shang, Xiaoshuang Shi and Xiaofeng Zhu
 <strong>Pattern Recognition (PR), 2024</strong>
 <em>CAS-Q1-TOP, IF: 7.6</em>  
-<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002012">Paper</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002012">[Paper]</a>
 
 </div>
 
